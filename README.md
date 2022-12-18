@@ -1,6 +1,6 @@
 ![kfirfitousi](https://user-images.githubusercontent.com/37262772/207150016-ee327432-ddc2-43de-a292-1af7013976f6.png)
 
-💙 TypeScript • 🤍 React • 🖤 Next.js
+💙 TypeScript · 🤍 React · 🖤 Next.js
 
 Check out my [Blog](https://blog.kfirfitousi.com), I write about Web Development among other things.
   
