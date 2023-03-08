@@ -1,4 +1,4 @@
-![kfirfitousi](https://user-images.githubusercontent.com/37262772/223703413-1c3f2232-2a8e-4ed0-ae70-ef87b8a83c4f.png)
+![kfirfitousi](https://user-images.githubusercontent.com/37262772/223705095-e08c2456-9e13-419d-b635-d7d3765d4181.png)
 
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kfirfitousi&show_icons=true&theme=react" />
