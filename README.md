@@ -1,4 +1,4 @@
-![kfirfitousi](https://user-images.githubusercontent.com/37262772/207150016-ee327432-ddc2-43de-a292-1af7013976f6.png)
+![kfirfitousi](https://user-images.githubusercontent.com/37262772/223703413-1c3f2232-2a8e-4ed0-ae70-ef87b8a83c4f.png)
 
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kfirfitousi&show_icons=true&theme=react" />
@@ -11,3 +11,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kfirp/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/kp2c)
+
